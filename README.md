@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salauddin</h1>
 <h3 align="center">Full Stack Web Developer & Android Developer</h3>
 
-<p align="right" style="border-radius:260px"> <img  src="https://avatars.githubusercontent.com/u/98937667?v=4" alt="salauddincs360"  height="200px" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=salauddincs360" alt="salauddincs360"  /></a> </p>
 
 - 🔭 I’m currently working on **AmarSoft Solutions LTD**
 

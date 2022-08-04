@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **salauddincs360@gmail.com**
 
-- ⚡ Fun fact **I love in the world technology😂**
+- ⚡ Fun fact **I love in the world only technology😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer & Android Developer</h3>
 
 
-- 🔭 I’m currently working on **AmarSoft Solutions LTD**
+- 🔭 I’m currently working as a freelance software developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/salauddincs360](https://github.com/salauddincs360)
 

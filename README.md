@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Bugs**
 
-- 📫 How to reach me **salauddincs360@gmail.com**
+- 📫 How to reach me **hello.salauddincs@gmail.com**
 
 - ⚡ Fun fact **I love in the world only technology😂**
 
